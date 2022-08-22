@@ -1,16 +1,20 @@
-# menu_app
+Nota: 
+1) Para una mejor vizualización, ver en modo navegador reduciendo el ancho lo máximo.
+Al ser mi primer proyecto en Flutter y no contar con un dispositivo Android,
+no me percaté de algunas cosas como el emulador... (Sorry)
 
-A new Flutter project.
+2) La encapsulación y reutilizacioón no es la mejor, por lo mismo de que es mi
+primer proyecto.
 
-## Getting Started
+3) Al ser una simple maquetación no todos los botones son funcionales. Por lo que 
+la guía de navegación entre vistas, es la siguiente:
 
-This project is a starting point for a Flutter application.
+IndexPage (Página principal), desde acá, presionando en "Reservar ahora" puede
+ir a ReservasPage, en el icono de perfil a LoginPage, en el icono del carrito a 
+a CarritoPage, en los distintos platos a DishPage.
 
-A few resources to get you started if this is your first Flutter project:
+De ahí en adelante, son muy intuitivos los botones que hay que presionar para seguir
+llegando a lo siguiente, y siempre para devolverse entre vistas, se utiliza la flecha
+superior negra.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+                               
